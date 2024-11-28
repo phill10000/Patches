@@ -1,0 +1,26 @@
+GameEntity : "{B6CC74F306F54A8D}Prefabs/Items/Equipment/Patches/Patch_Base.et" {
+ ID "5DB09136945FC6DB"
+ components {
+  InventoryItemComponent "{5DB09136B1C985CE}" {
+   Attributes SCR_ItemAttributeCollection "{5DB09136B1C985C1}" {
+    ItemDisplayName SCR_ItemHintUIInfo "{5DB09136B1C985EB}" {
+     Name "Jagdkommando_31"
+     Description "Jagdkommando_31"
+     Icon "{964A2716A84B4F3C}Patch_Jagdkommando_31/Data/Jagdkommando_31.edds"
+     m_bShowIconInInventory 1
+    }
+   }
+  }
+  MeshObject "{5DB09136B1C985B5}" {
+   Object "{A355841B831D0DC2}Patch_Jagdkommando_31/Patch_Jagdkommando_31.xob"
+  }
+  BaseLoadoutClothComponent "{5DB09136B1C9859A}" {
+   WornMaterialsOverride {
+    "{08120171208ED742}Patch_Jagdkommando_31/Data/Steel__Satin.emat"
+   }
+   ItemMaterialsOverride {
+    "{08120171208ED742}Patch_Jagdkommando_31/Data/Steel__Satin.emat"
+   }
+  }
+ }
+}

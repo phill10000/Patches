@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{67A00D2E4D07D4C2}Patch_BRRRT/Texture/BRRRT_Fabic_BCR.edds"
+ NMOMap "{5F78B6BC9470865C}Patch_BRRRT/Texture/BRRRT_Fabic_NMO.edds"
+}

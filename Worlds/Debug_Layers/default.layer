@@ -1,0 +1,34 @@
+$grp GameEntity : "{5D60BBEF5DA38635}Patch_BRRRT/Entity/Patch_BRRRT.et" {
+ {
+  coords 4893.264 28.594 11794.324
+ }
+ {
+  coords 4893.283 28.594 11794.504
+ }
+ {
+  coords 4893.267 28.594 11794.666
+ }
+ {
+  coords 4893.2 28.594 11794.909
+ }
+ {
+  coords 4893.221 28.594 11795.067
+ }
+}
+$grp GameEntity : "{B3E87FA42811DF59}Patch_Kavimon/Entity/Patch_Kavimon.et" {
+ {
+  coords 4892.618 28.594 11793.294
+ }
+ {
+  coords 4892.526 28.593 11792.729
+ }
+ {
+  coords 4892.606 28.593 11793.111
+ }
+ {
+  coords 4892.787 28.593 11793.06
+ }
+ {
+  coords 4892.844 28.594 11793.346
+ }
+}

@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{004059C675876A99}Patch_PzGrenBtl24/Texture/PzGrenBtl24_Fabic_BCR.edds"
+ NMOMap "{3898E254ACF03807}Patch_PzGrenBtl24/Texture/PzGrenBtl24_Fabic_NMO.edds"
+}

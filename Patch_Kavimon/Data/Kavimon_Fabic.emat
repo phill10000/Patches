@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{B5C3DA836BECC3ED}Patch_Kavimon/Texture/Kavimon_Fabric_BCR.edds"
+ NMOMap "{8D1B6111B29B9173}Patch_Kavimon/Texture/Kavimon_Fabric_NMO.edds"
+}

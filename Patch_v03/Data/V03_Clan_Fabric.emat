@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{68834B28711C06C0}Patch_v03/Texture/V03_Clan_Fabric_BCR.edds"
+ NMOMap "{505BF0BAA86B545E}Patch_v03/Texture/V03_Clan_Fabric_NMO.edds"
+}

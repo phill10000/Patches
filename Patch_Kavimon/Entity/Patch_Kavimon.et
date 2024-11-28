@@ -1,0 +1,26 @@
+GameEntity : "{B41CBDEDF7B897D7}Prefabs/Items/Equipment/Patches/Patch_Base.et" {
+ ID "5DB09136945FC6DB"
+ components {
+  InventoryItemComponent "{5DB09136B1C985CE}" {
+   Attributes SCR_ItemAttributeCollection "{5DB09136B1C985C1}" {
+    ItemDisplayName SCR_ItemHintUIInfo "{5DB09136B1C985EB}" {
+     Name "Patch Kavimon"
+     Description "Patch Kavimon"
+     Icon "{45D33212EB84F437}Patch_Kavimon/Data/Kavimon_Icon.edds"
+    }
+   }
+  }
+  MeshObject "{5DB09136B1C985B5}" {
+   Object "{7F123C32EB90F112}Patch_Kavimon/Kavimon.xob"
+  }
+  BaseLoadoutClothComponent "{5DB09136B1C9859A}" {
+   WornMaterialsOverride {
+    "{E4839D6F3B27F3D2}Patch_Kavimon/Data/Kavimon_Fabic.emat"
+   }
+   ItemMaterialsOverride {
+    "{E4839D6F3B27F3D2}Patch_Kavimon/Data/Kavimon_Fabic.emat"
+   }
+  }
+ }
+ coords 0 0 0
+}

@@ -1,0 +1,15 @@
+GameEntity : "{B41CBDEDF7B897D7}Prefabs/Items/Equipment/Patches/Patch_Base.et" {
+ ID "5DB09136945FC6DB"
+ components {
+  InventoryItemComponent "{5DB09136B1C985CE}" {
+   Attributes SCR_ItemAttributeCollection "{5DB09136B1C985C1}" {
+    ItemDisplayName SCR_ItemHintUIInfo "{5DB09136B1C985EB}" {
+     Name "Patch Jagdkommando 31"
+     Description "Patch Jagdkommando 31"
+     Icon "{966F8D37DCC9E49B}Patch_Jagdkommando_31/Data/Icon_Jagdkommando_31.edds"
+    }
+   }
+  }
+ }
+ coords 0 0 0
+}

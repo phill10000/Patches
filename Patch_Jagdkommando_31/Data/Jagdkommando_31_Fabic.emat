@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{5B0884B1439D4B1C}Patch_Jagdkommando_31/Texture/Jagdkommando_31_Fabric_BCR.edds"
+ NMOMap "{255320ED70F25309}Patch_Jagdkommando_31/Texture/Patch_Jagdkommando_31_Fabric_NMO.edds"
+}
